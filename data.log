@@ -1,0 +1,443 @@
+2023-05-12 13:13:16,372:INFO:Record inserted(9811979111,'krish.joshi.111@gmail.com');
+2023-05-12 13:13:16,373:INFO:Record inserted(9811979112,'krish.joshi.112@gmail.com');
+2023-05-12 13:13:16,373:INFO:Record inserted(9811979113,'krish.joshi.113@gmail.com');
+2023-05-12 13:13:16,374:INFO:Record inserted(9811979114,'krish.joshi.114@gmail.com');
+2023-05-12 13:13:16,375:INFO:Record inserted(9811979115,'krish.joshi.115@gmail.com');
+2023-05-12 13:13:16,375:INFO:Record inserted(9811979116,'krish.joshi.116@gmail.com');
+2023-05-12 13:13:16,376:INFO:Record inserted(9811979117,'krish.joshi.117@gmail.com');
+2023-05-12 13:13:16,376:INFO:Record inserted(9811979118,'krish.joshi.118@gmail.com');
+2023-05-12 13:13:16,376:INFO:Record inserted(9811979119,'krish.joshi.119@gmail.com');
+2023-05-12 13:13:16,377:INFO:Record inserted(9811979120,'krish.joshi.120@gmail.com');
+2023-05-12 13:13:16,377:INFO:Record inserted(9811979209,'krish.joshi.124@gmail.com');
+2023-05-12 13:13:16,378:INFO:Record inserted(9811979209,'krish.joshi.125@gmail.com');
+2023-05-12 13:39:37,502:INFO:Record not inserted(9811979111,'krish.joshi.111@gmail.com');
+2023-05-12 13:39:37,503:INFO:Record not inserted(9811979112,'krish.joshi.112@gmail.com');
+2023-05-12 13:39:37,503:INFO:Record not inserted(9811979113,'krish.joshi.113@gmail.com');
+2023-05-12 13:39:37,504:INFO:Record not inserted(9811979114,'krish.joshi.114@gmail.com');
+2023-05-12 13:39:37,504:INFO:Record not inserted(9811979115,'krish.joshi.115@gmail.com');
+2023-05-12 13:39:37,504:INFO:Record not inserted(9811979116,'krish.joshi.116@gmail.com');
+2023-05-12 13:39:37,505:INFO:Record not inserted(9811979117,'krish.joshi.117@gmail.com');
+2023-05-12 13:39:37,505:INFO:Record not inserted(9811979118,'krish.joshi.118@gmail.com');
+2023-05-12 13:39:37,506:INFO:Record not inserted(9811979119,'krish.joshi.119@gmail.com');
+2023-05-12 13:39:37,506:INFO:Record not inserted(9811979120,'krish.joshi.120@gmail.com');
+2023-05-12 13:39:37,507:INFO:Record inserted(98119792099,'krish.joshi.121@gmail.com');
+2023-05-12 13:39:37,508:INFO:Record not inserted(9811979209,'krish.joshi.124@gmail.com');
+2023-05-12 13:39:37,508:INFO:Record not inserted(9811979209,'krish.joshi.125@gmail.com');
+2023-05-12 14:17:31,529:INFO:Record not inserted(9811979111,'krish.joshi.111@gmail.com');
+2023-05-12 14:17:31,530:INFO:Record not inserted(9811979112,'krish.joshi.112@gmail.com');
+2023-05-12 14:17:31,531:INFO:Record not inserted(9811979113,'krish.joshi.113@gmail.com');
+2023-05-12 14:17:31,532:INFO:Record not inserted(9811979114,'krish.joshi.114@gmail.com');
+2023-05-12 14:17:31,534:INFO:Record not inserted(9811979115,'krish.joshi.115@gmail.com');
+2023-05-12 14:17:31,535:INFO:Record not inserted(9811979116,'krish.joshi.116@gmail.com');
+2023-05-12 14:17:31,535:INFO:Record not inserted(9811979117,'krish.joshi.117@gmail.com');
+2023-05-12 14:17:31,536:INFO:Record not inserted(9811979118,'krish.joshi.118@gmail.com');
+2023-05-12 14:17:31,536:INFO:Record not inserted(9811979119,'krish.joshi.119@gmail.com');
+2023-05-12 14:17:31,537:INFO:Record not inserted(9811979120,'krish.joshi.120@gmail.com');
+2023-05-12 14:17:31,542:INFO:Record inserted(98119792099,'krish.joshi.121@gmail.com');
+2023-05-12 14:17:31,542:INFO:Record not inserted(9811979209,'krish.joshi.124@gmail.com');
+2023-05-12 14:17:31,543:INFO:Record not inserted(9811979209,'krish.joshi.125@gmail.com');
+2023-05-12 14:20:45,153:INFO:Record not inserted(9811979111,'krish.joshi.111@gmail.com');
+2023-05-12 14:20:45,153:INFO:Record not inserted(9811979112,'krish.joshi.112@gmail.com');
+2023-05-12 14:20:45,154:INFO:Record not inserted(9811979113,'krish.joshi.113@gmail.com');
+2023-05-12 14:20:45,154:INFO:Record not inserted(9811979114,'krish.joshi.114@gmail.com');
+2023-05-12 14:20:45,154:INFO:Record not inserted(9811979115,'krish.joshi.115@gmail.com');
+2023-05-12 14:20:45,155:INFO:Record not inserted(9811979116,'krish.joshi.116@gmail.com');
+2023-05-12 14:20:45,155:INFO:Record not inserted(9811979117,'krish.joshi.117@gmail.com');
+2023-05-12 14:20:45,155:INFO:Record not inserted(9811979118,'krish.joshi.118@gmail.com');
+2023-05-12 14:20:45,156:INFO:Record not inserted(9811979119,'krish.joshi.119@gmail.com');
+2023-05-12 14:20:45,156:INFO:Record not inserted(9811979120,'krish.joshi.120@gmail.com');
+2023-05-12 14:20:45,156:INFO:Record inserted(98119792099,'krish.joshi.121@gmail.com');
+2023-05-12 14:20:45,156:INFO:Record not inserted(9811979209,'krish.joshi.124@gmail.com');
+2023-05-12 14:20:45,157:INFO:Record not inserted(9811979209,'krish.joshi.125@gmail.com');
+2023-05-12 14:31:33,113:INFO:Record not inserted(9811979111,'krish.joshi.111@gmail.com');
+2023-05-12 14:31:33,113:INFO:Record not inserted(9811979112,'krish.joshi.112@gmail.com');
+2023-05-12 14:31:33,114:INFO:Record not inserted(9811979113,'krish.joshi.113@gmail.com');
+2023-05-12 14:31:33,114:INFO:Record not inserted(9811979114,'krish.joshi.114@gmail.com');
+2023-05-12 14:31:33,114:INFO:Record not inserted(9811979115,'krish.joshi.115@gmail.com');
+2023-05-12 14:31:33,115:INFO:Record not inserted(9811979116,'krish.joshi.116@gmail.com');
+2023-05-12 14:31:33,115:INFO:Record not inserted(9811979117,'krish.joshi.117@gmail.com');
+2023-05-12 14:31:33,116:INFO:Record not inserted(9811979118,'krish.joshi.118@gmail.com');
+2023-05-12 14:31:33,116:INFO:Record not inserted(9811979119,'krish.joshi.119@gmail.com');
+2023-05-12 14:31:33,116:INFO:Record not inserted(9811979120,'krish.joshi.120@gmail.com');
+2023-05-12 14:31:33,116:INFO:Record not inserted(98119792099,'krish.joshi.121@gmail.com');
+2023-05-12 14:31:33,116:INFO:Record not inserted(9811979209,'krish.joshi.124@gmail.com');
+2023-05-12 14:31:33,117:INFO:Record not inserted(9811979209,'krish.joshi.125@gmail.com');
+2023-05-12 14:31:33,117:INFO:Record inserted(919811979209,'krish.joshi.126@gmail.com');
+2023-05-12 14:33:47,129:INFO:Record not inserted(9811979111,'krish.joshi.111@gmail.com');
+2023-05-12 14:33:47,129:INFO:Record not inserted(9811979112,'krish.joshi.112@gmail.com');
+2023-05-12 14:33:47,130:INFO:Record not inserted(9811979113,'krish.joshi.113@gmail.com');
+2023-05-12 14:33:47,130:INFO:Record not inserted(9811979114,'krish.joshi.114@gmail.com');
+2023-05-12 14:33:47,130:INFO:Record not inserted(9811979115,'krish.joshi.115@gmail.com');
+2023-05-12 14:33:47,131:INFO:Record not inserted(9811979116,'krish.joshi.116@gmail.com');
+2023-05-12 14:33:47,131:INFO:Record not inserted(9811979117,'krish.joshi.117@gmail.com');
+2023-05-12 14:33:47,131:INFO:Record not inserted(9811979118,'krish.joshi.118@gmail.com');
+2023-05-12 14:33:47,131:INFO:Record not inserted(9811979119,'krish.joshi.119@gmail.com');
+2023-05-12 14:33:47,132:INFO:Record not inserted(9811979120,'krish.joshi.120@gmail.com');
+2023-05-12 14:33:47,132:INFO:Record not inserted(98119792099,'krish.joshi.121@gmail.com');
+2023-05-12 14:33:47,133:INFO:Record not inserted(9811979209,'krish.joshi.124@gmail.com');
+2023-05-12 14:33:47,133:INFO:Record not inserted(9811979209,'krish.joshi.125@gmail.com');
+2023-05-12 14:33:47,133:INFO:Record not inserted(919811979209,'krish.joshi.126@gmail.com');
+2023-05-12 14:34:10,081:INFO:Record not inserted(9811979111,'krish.joshi.111@gmail.com');
+2023-05-12 14:34:10,082:INFO:Record not inserted(9811979112,'krish.joshi.112@gmail.com');
+2023-05-12 14:34:10,082:INFO:Record not inserted(9811979113,'krish.joshi.113@gmail.com');
+2023-05-12 14:34:10,082:INFO:Record not inserted(9811979114,'krish.joshi.114@gmail.com');
+2023-05-12 14:34:10,083:INFO:Record not inserted(9811979115,'krish.joshi.115@gmail.com');
+2023-05-12 14:34:10,083:INFO:Record not inserted(9811979116,'krish.joshi.116@gmail.com');
+2023-05-12 14:34:10,083:INFO:Record not inserted(9811979117,'krish.joshi.117@gmail.com');
+2023-05-12 14:34:10,084:INFO:Record not inserted(9811979118,'krish.joshi.118@gmail.com');
+2023-05-12 14:34:10,084:INFO:Record not inserted(9811979119,'krish.joshi.119@gmail.com');
+2023-05-12 14:34:10,085:INFO:Record not inserted(9811979120,'krish.joshi.120@gmail.com');
+2023-05-12 14:34:10,085:INFO:Record not inserted(98119792099,'krish.joshi.121@gmail.com');
+2023-05-12 14:34:10,085:INFO:Record not inserted(9811979209,'krish.joshi.124@gmail.com');
+2023-05-12 14:34:10,085:INFO:Record not inserted(9811979209,'krish.joshi.125@gmail.com');
+2023-05-12 14:34:10,086:INFO:Record not inserted(919811979209,'krish.joshi.126@gmail.com');
+2023-05-12 14:35:21,936:INFO:Record not inserted(98119792099,'krish.joshi.121@gmail.com');
+2023-05-12 14:35:21,937:INFO:Record not inserted(919811979209,'krish.joshi.126@gmail.com');
+2023-05-12 14:35:21,939:INFO:Record inserted(1029811979209,'krish.joshi.128@gmail.com');
+2023-05-12 14:37:23,133:INFO:Record not inserted(98119792099,'krish.joshi.121@gmail.com');
+2023-05-12 14:37:23,134:INFO:Record not inserted(919811979209,'krish.joshi.126@gmail.com');
+2023-05-12 14:37:23,134:INFO:Record not inserted(1029811979209,'krish.joshi.128@gmail.com');
+2023-05-12 14:37:23,135:INFO:Record inserted(109811979209,'krish.joshi.129@gmail.com');
+2023-05-12 14:39:06,897:INFO:Record not inserted(9811979111,'krish.joshi.111@gmail.com');
+2023-05-12 14:39:06,898:INFO:Record not inserted(9811979112,'krish.joshi.112@gmail.com');
+2023-05-12 14:39:06,898:INFO:Record not inserted(9811979113,'krish.joshi.113@gmail.com');
+2023-05-12 14:39:06,898:INFO:Record not inserted(9811979114,'krish.joshi.114@gmail.com');
+2023-05-12 14:39:06,898:INFO:Record not inserted(9811979115,'krish.joshi.115@gmail.com');
+2023-05-12 14:39:06,899:INFO:Record not inserted(9811979116,'krish.joshi.116@gmail.com');
+2023-05-12 14:39:06,899:INFO:Record not inserted(9811979117,'krish.joshi.117@gmail.com');
+2023-05-12 14:39:06,899:INFO:Record not inserted(9811979118,'krish.joshi.118@gmail.com');
+2023-05-12 14:39:06,899:INFO:Record not inserted(9811979119,'krish.joshi.119@gmail.com');
+2023-05-12 14:39:06,900:INFO:Record not inserted(9811979120,'krish.joshi.120@gmail.com');
+2023-05-12 14:39:06,900:INFO:Record not inserted(98119792099,'krish.joshi.121@gmail.com');
+2023-05-12 14:39:06,900:INFO:Record not inserted(9811979209,'krish.joshi.124@gmail.com');
+2023-05-12 14:39:06,900:INFO:Record not inserted(9811979209,'krish.joshi.125@gmail.com');
+2023-05-12 14:39:06,901:INFO:Record not inserted(919811979209,'krish.joshi.126@gmail.com');
+2023-05-12 14:39:06,901:INFO:Record not inserted(109811979209,'krish.joshi.129@gmail.com');
+2023-05-12 14:39:06,902:INFO:Record inserted(9811979209,'krish.joshi.130@gmail.com');
+2023-05-12 14:42:58,259:INFO:Record not inserted(9811979111,'krish.joshi.111@gmail.com');
+2023-05-12 14:42:58,260:INFO:Record not inserted(9811979112,'krish.joshi.112@gmail.com');
+2023-05-12 14:42:58,260:INFO:Record not inserted(9811979113,'krish.joshi.113@gmail.com');
+2023-05-12 14:42:58,260:INFO:Record not inserted(9811979114,'krish.joshi.114@gmail.com');
+2023-05-12 14:42:58,261:INFO:Record not inserted(9811979115,'krish.joshi.115@gmail.com');
+2023-05-12 14:42:58,261:INFO:Record not inserted(9811979116,'krish.joshi.116@gmail.com');
+2023-05-12 14:42:58,261:INFO:Record not inserted(9811979117,'krish.joshi.117@gmail.com');
+2023-05-12 14:42:58,261:INFO:Record not inserted(9811979118,'krish.joshi.118@gmail.com');
+2023-05-12 14:42:58,262:INFO:Record not inserted(9811979119,'krish.joshi.119@gmail.com');
+2023-05-12 14:42:58,262:INFO:Record not inserted(9811979120,'krish.joshi.120@gmail.com');
+2023-05-12 14:42:58,263:INFO:Record not inserted(98119792099,'krish.joshi.121@gmail.com');
+2023-05-12 14:42:58,263:INFO:Record not inserted(9811979209,'krish.joshi.124@gmail.com');
+2023-05-12 14:42:58,263:INFO:Record not inserted(9811979209,'krish.joshi.125@gmail.com');
+2023-05-12 14:42:58,264:INFO:Record not inserted(919811979209,'krish.joshi.126@gmail.com');
+2023-05-12 14:42:58,264:INFO:Record not inserted(1029811979209,'krish.joshi.128@gmail.com');
+2023-05-12 14:42:58,265:INFO:Record not inserted(109811979209,'krish.joshi.129@gmail.com');
+2023-05-12 14:42:58,265:INFO:Record not inserted(9811979209,'krish.joshi.130@gmail.com');
+2023-05-12 14:43:57,649:INFO:Record not inserted(9811979111,'krish.joshi.111@gmail.com');
+2023-05-12 14:43:57,650:INFO:Record not inserted(9811979112,'krish.joshi.112@gmail.com');
+2023-05-12 14:43:57,650:INFO:Record not inserted(9811979113,'krish.joshi.113@gmail.com');
+2023-05-12 14:43:57,650:INFO:Record not inserted(9811979114,'krish.joshi.114@gmail.com');
+2023-05-12 14:43:57,650:INFO:Record not inserted(9811979115,'krish.joshi.115@gmail.com');
+2023-05-12 14:43:57,651:INFO:Record not inserted(9811979116,'krish.joshi.116@gmail.com');
+2023-05-12 14:43:57,651:INFO:Record not inserted(9811979117,'krish.joshi.117@gmail.com');
+2023-05-12 14:43:57,651:INFO:Record not inserted(9811979118,'krish.joshi.118@gmail.com');
+2023-05-12 14:43:57,651:INFO:Record not inserted(9811979119,'krish.joshi.119@gmail.com');
+2023-05-12 14:43:57,652:INFO:Record not inserted(9811979120,'krish.joshi.120@gmail.com');
+2023-05-12 14:43:57,652:INFO:Record not inserted(98119792099,'krish.joshi.121@gmail.com');
+2023-05-12 14:43:57,652:INFO:Record not inserted(9811979209,'krish.joshi.124@gmail.com');
+2023-05-12 14:43:57,652:INFO:Record not inserted(9811979209,'krish.joshi.125@gmail.com');
+2023-05-12 14:43:57,653:INFO:Record not inserted(919811979209,'krish.joshi.126@gmail.com');
+2023-05-12 14:43:57,653:INFO:Record not inserted(1029811979209,'krish.joshi.128@gmail.com');
+2023-05-12 14:43:57,653:INFO:Record not inserted(109811979209,'krish.joshi.129@gmail.com');
+2023-05-12 14:43:57,653:INFO:Record not inserted(9811979209,'krish.joshi.130@gmail.com');
+2023-05-12 14:43:57,654:INFO:Record inserted(1049811979209,'krish.joshi.131@gmail.com');
+2023-05-12 14:50:07,903:INFO:Record not inserted(9811979111,'krish.joshi.111@gmail.com');
+2023-05-12 14:50:07,904:INFO:Record not inserted(9811979112,'krish.joshi.112@gmail.com');
+2023-05-12 14:50:07,904:INFO:Record not inserted(9811979113,'krish.joshi.113@gmail.com');
+2023-05-12 14:50:07,904:INFO:Record not inserted(9811979114,'krish.joshi.114@gmail.com');
+2023-05-12 14:50:07,905:INFO:Record not inserted(9811979115,'krish.joshi.115@gmail.com');
+2023-05-12 14:50:07,905:INFO:Record not inserted(9811979116,'krish.joshi.116@gmail.com');
+2023-05-12 14:50:07,905:INFO:Record not inserted(9811979117,'krish.joshi.117@gmail.com');
+2023-05-12 14:50:07,905:INFO:Record not inserted(9811979118,'krish.joshi.118@gmail.com');
+2023-05-12 14:50:07,906:INFO:Record not inserted(9811979119,'krish.joshi.119@gmail.com');
+2023-05-12 14:50:07,906:INFO:Record not inserted(9811979120,'krish.joshi.120@gmail.com');
+2023-05-12 14:50:07,906:INFO:Record inserted(98119792099,'krish.joshi.121@gmail.com');
+2023-05-12 14:50:07,907:INFO:Record not inserted(9811979209,'krish.joshi.124@gmail.com');
+2023-05-12 14:50:07,907:INFO:Record not inserted(9811979209,'krish.joshi.125@gmail.com');
+2023-05-12 14:50:07,907:INFO:Record not inserted(919811979209,'krish.joshi.126@gmail.com');
+2023-05-12 14:50:07,907:INFO:Record not inserted(1029811979209,'krish.joshi.128@gmail.com');
+2023-05-12 14:50:07,908:INFO:Record not inserted(109811979209,'krish.joshi.129@gmail.com');
+2023-05-12 14:50:07,908:INFO:Record not inserted(9811979209,'krish.joshi.130@gmail.com');
+2023-05-12 14:50:07,909:INFO:Record not inserted(1049811979209,'krish.joshi.131@gmail.com');
+2023-05-12 14:50:56,539:INFO:Record not inserted(9811979111,'krish.joshi.111@gmail.com');
+2023-05-12 14:50:56,540:INFO:Record not inserted(9811979112,'krish.joshi.112@gmail.com');
+2023-05-12 14:50:56,540:INFO:Record not inserted(9811979113,'krish.joshi.113@gmail.com');
+2023-05-12 14:50:56,540:INFO:Record not inserted(9811979114,'krish.joshi.114@gmail.com');
+2023-05-12 14:50:56,540:INFO:Record not inserted(9811979115,'krish.joshi.115@gmail.com');
+2023-05-12 14:50:56,541:INFO:Record not inserted(9811979116,'krish.joshi.116@gmail.com');
+2023-05-12 14:50:56,541:INFO:Record not inserted(9811979117,'krish.joshi.117@gmail.com');
+2023-05-12 14:50:56,541:INFO:Record not inserted(9811979118,'krish.joshi.118@gmail.com');
+2023-05-12 14:50:56,542:INFO:Record not inserted(9811979119,'krish.joshi.119@gmail.com');
+2023-05-12 14:50:56,542:INFO:Record not inserted(9811979120,'krish.joshi.120@gmail.com');
+2023-05-12 14:50:56,542:INFO:Record not inserted(98119792099,'krish.joshi.121@gmail.com');
+2023-05-12 14:50:56,543:INFO:Record not inserted(9811979209,'krish.joshi.124@gmail.com');
+2023-05-12 14:50:56,543:INFO:Record not inserted(9811979209,'krish.joshi.125@gmail.com');
+2023-05-12 14:50:56,543:INFO:Record not inserted(919811979209,'krish.joshi.126@gmail.com');
+2023-05-12 14:50:56,544:INFO:Record not inserted(109811979209,'krish.joshi.129@gmail.com');
+2023-05-12 14:50:56,544:INFO:Record not inserted(9811979209,'krish.joshi.130@gmail.com');
+2023-05-12 15:25:43,279:INFO:Record not inserted(9811979111,'krish.joshi.111@gmail.com');
+2023-05-12 15:25:43,280:INFO:Record not inserted(9811979112,'krish.joshi.112@gmail.com');
+2023-05-12 15:25:43,280:INFO:Record not inserted(9811979113,'krish.joshi.113@gmail.com');
+2023-05-12 15:25:43,280:INFO:Record not inserted(9811979114,'krish.joshi.114@gmail.com');
+2023-05-12 15:25:43,281:INFO:Record not inserted(9811979115,'krish.joshi.115@gmail.com');
+2023-05-12 15:25:43,281:INFO:Record not inserted(9811979116,'krish.joshi.116@gmail.com');
+2023-05-12 15:25:43,281:INFO:Record not inserted(9811979117,'krish.joshi.117@gmail.com');
+2023-05-12 15:25:43,281:INFO:Record not inserted(9811979118,'krish.joshi.118@gmail.com');
+2023-05-12 15:25:43,282:INFO:Record not inserted(9811979119,'krish.joshi.119@gmail.com');
+2023-05-12 15:25:43,282:INFO:Record not inserted(9811979120,'krish.joshi.120@gmail.com');
+2023-05-12 15:25:43,282:INFO:Record not inserted(9811979209,'krish.joshi.124@gmail.com');
+2023-05-12 15:25:43,282:INFO:Record not inserted(9811979209,'krish.joshi.125@gmail.com');
+2023-05-12 15:25:43,283:INFO:Record not inserted(919811979209,'krish.joshi.126@gmail.com');
+2023-05-12 15:25:43,283:INFO:Record not inserted(1029811979209,'krish.joshi.128@gmail.com');
+2023-05-12 15:25:43,283:INFO:Record not inserted(109811979209,'krish.joshi.129@gmail.com');
+2023-05-12 15:25:43,283:INFO:Record not inserted(9811979209,'krish.joshi.130@gmail.com');
+2023-05-12 15:25:43,284:INFO:Record not inserted(1049811979209,'krish.joshi.131@gmail.com');
+2023-05-12 15:33:52,091:INFO:Record not inserted, Database Error!
+2023-05-12 15:33:52,092:INFO:Record not inserted, Database Error!
+2023-05-12 15:33:52,092:INFO:Record not inserted, Database Error!
+2023-05-12 15:33:52,092:INFO:Record not inserted, Database Error!
+2023-05-12 15:33:52,093:INFO:Record not inserted, Database Error!
+2023-05-12 15:33:52,093:INFO:Record not inserted, Database Error!
+2023-05-12 15:33:52,093:INFO:Record not inserted, Database Error!
+2023-05-12 15:33:52,093:INFO:Record not inserted, Database Error!
+2023-05-12 15:33:52,093:INFO:Record not inserted, Database Error!
+2023-05-12 15:33:52,093:INFO:Record not inserted, Database Error!
+2023-05-12 15:33:52,094:INFO:Record not inserted, Database Error!
+2023-05-12 15:33:52,094:INFO:Record not inserted, Database Error!
+2023-05-12 15:33:52,094:INFO:Record not inserted, Database Error!
+2023-05-12 15:33:52,094:INFO:Record not inserted, Database Error!
+2023-05-12 15:33:52,094:INFO:Record not inserted, Database Error!
+2023-05-12 15:33:52,095:INFO:Record not inserted, Database Error!
+2023-05-12 15:33:52,095:INFO:Record not inserted, Database Error!
+2023-05-12 15:44:28,699:INFO:Record not inserted, Database Error!
+2023-05-12 15:44:28,700:INFO:Record not inserted, Database Error!
+2023-05-12 15:44:28,700:INFO:Record not inserted, Database Error!
+2023-05-12 15:44:28,700:INFO:Record not inserted, Database Error!
+2023-05-12 15:44:28,701:INFO:Record not inserted, Database Error!
+2023-05-12 15:44:28,701:INFO:Record not inserted, Database Error!
+2023-05-12 15:44:28,701:INFO:Record not inserted, Database Error!
+2023-05-12 15:44:28,701:INFO:Record not inserted, Database Error!
+2023-05-12 15:44:28,701:INFO:Record not inserted, Database Error!
+2023-05-12 15:44:28,701:INFO:Record not inserted, Database Error!
+2023-05-12 15:44:28,702:INFO:Record not inserted, Database Error!
+2023-05-12 15:44:28,702:INFO:Record not inserted, Database Error!
+2023-05-12 15:44:28,702:INFO:Record not inserted, Database Error!
+2023-05-12 15:44:28,703:INFO:Record not inserted, Database Error!
+2023-05-12 15:44:28,703:INFO:Record not inserted, Database Error!
+2023-05-12 15:44:28,703:INFO:Record not inserted, Database Error!
+2023-05-12 15:44:28,703:INFO:Record not inserted, Database Error!
+2023-05-12 15:50:35,528:INFO:Record not inserted, Database Error!
+2023-05-12 15:50:35,528:INFO:Record not inserted, Database Error!
+2023-05-12 15:50:35,529:INFO:Record not inserted, Database Error!
+2023-05-12 15:50:35,529:INFO:Record not inserted, Database Error!
+2023-05-12 15:50:35,529:INFO:Record not inserted, Database Error!
+2023-05-12 15:50:35,530:INFO:Record not inserted, Database Error!
+2023-05-12 15:50:35,530:INFO:Record not inserted, Database Error!
+2023-05-12 15:50:35,530:INFO:Record not inserted, Database Error!
+2023-05-12 15:50:35,530:INFO:Record not inserted, Database Error!
+2023-05-12 15:50:35,531:INFO:Record not inserted, Database Error!
+2023-05-12 15:50:35,531:INFO:Record not inserted, Database Error!
+2023-05-12 15:50:35,531:INFO:Record not inserted, Database Error!
+2023-05-12 15:50:35,532:INFO:Record not inserted, Database Error!
+2023-05-12 15:50:35,532:INFO:Record not inserted, Database Error!
+2023-05-12 15:50:35,532:INFO:Record not inserted, Database Error!
+2023-05-12 15:50:35,532:INFO:Record not inserted, Database Error!
+2023-05-12 15:50:35,533:INFO:Record not inserted, Database Error!
+2023-05-12 15:56:37,924:INFO:Record not inserted, Database Error!
+2023-05-12 15:56:37,925:INFO:Record not inserted, Database Error!
+2023-05-12 15:56:37,925:INFO:Record not inserted, Database Error!
+2023-05-12 15:56:37,925:INFO:Record not inserted, Database Error!
+2023-05-12 15:56:37,925:INFO:Record not inserted, Database Error!
+2023-05-12 15:56:37,926:INFO:Record not inserted, Database Error!
+2023-05-12 15:56:37,926:INFO:Record not inserted, Database Error!
+2023-05-12 15:56:37,926:INFO:Record not inserted, Database Error!
+2023-05-12 15:56:37,926:INFO:Record not inserted, Database Error!
+2023-05-12 15:56:37,926:INFO:Record not inserted, Database Error!
+2023-05-12 15:56:37,927:INFO:Record not inserted, Database Error!
+2023-05-12 15:56:37,927:INFO:Record not inserted, Database Error!
+2023-05-12 15:56:37,927:INFO:Record not inserted, Database Error!
+2023-05-12 15:56:37,927:INFO:Record not inserted, Database Error!
+2023-05-12 15:56:37,927:INFO:Record not inserted, Database Error!
+2023-05-12 15:56:37,927:INFO:Record not inserted, Database Error!
+2023-05-12 15:56:37,928:INFO:Record not inserted, Database Error!
+2023-05-12 15:56:59,924:INFO:Record not inserted, Database Error!
+2023-05-12 15:56:59,924:INFO:Record not inserted, Database Error!
+2023-05-12 15:56:59,925:INFO:Record not inserted, Database Error!
+2023-05-12 15:56:59,925:INFO:Record not inserted, Database Error!
+2023-05-12 15:56:59,925:INFO:Record not inserted, Database Error!
+2023-05-12 15:56:59,925:INFO:Record not inserted, Database Error!
+2023-05-12 15:56:59,926:INFO:Record not inserted, Database Error!
+2023-05-12 15:56:59,926:INFO:Record not inserted, Database Error!
+2023-05-12 15:56:59,926:INFO:Record not inserted, Database Error!
+2023-05-12 15:56:59,926:INFO:Record not inserted, Database Error!
+2023-05-12 15:56:59,927:INFO:Record not inserted, Database Error!
+2023-05-12 15:56:59,927:INFO:Record not inserted, Database Error!
+2023-05-12 15:56:59,927:INFO:Record not inserted, Database Error!
+2023-05-12 15:56:59,927:INFO:Record not inserted, Database Error!
+2023-05-12 15:56:59,927:INFO:Record not inserted, Database Error!
+2023-05-12 15:56:59,928:INFO:Record not inserted, Database Error!
+2023-05-12 15:56:59,928:INFO:Record not inserted, Database Error!
+2023-05-12 15:56:59,928:INFO:Record inserted(1049811979209,'krish.joshi.133@gmail.com');
+2023-05-12 16:50:29,046:INFO:Record inserted(9811979111,'krish.joshi.111@gmail.com');
+2023-05-12 16:50:29,047:INFO:Record inserted(9811979112,'krish.joshi.112@gmail.com');
+2023-05-12 16:50:29,048:INFO:Record inserted(9811979113,'krish.joshi.113@gmail.com');
+2023-05-12 16:50:29,048:INFO:Record inserted(9811979114,'krish.joshi.114@gmail.com');
+2023-05-12 16:50:29,048:INFO:Record inserted(9811979115,'krish.joshi.115@gmail.com');
+2023-05-12 16:50:29,049:INFO:Record inserted(9811979116,'krish.joshi.116@gmail.com');
+2023-05-12 16:50:29,049:INFO:Record inserted(9811979117,'krish.joshi.117@gmail.com');
+2023-05-12 16:50:29,050:INFO:Record inserted(9811979118,'krish.joshi.118@gmail.com');
+2023-05-12 16:50:29,050:INFO:Record inserted(9811979119,'krish.joshi.119@gmail.com');
+2023-05-12 16:50:29,050:INFO:Record inserted(9811979120,'krish.joshi.120@gmail.com');
+2023-05-12 16:50:29,050:INFO:Record inserted(9811979209,'krish.joshi.124@gmail.com');
+2023-05-12 16:50:29,051:INFO:Record inserted(9811979209,'krish.joshi.125@gmail.com');
+2023-05-12 16:50:29,051:INFO:Record inserted(919811979209,'krish.joshi.126@gmail.com');
+2023-05-12 16:50:29,051:INFO:Record not inserted, Unexpected Error
+2023-05-12 16:50:29,051:INFO:Record inserted(1029811979209,'krish.joshi.128@gmail.com');
+2023-05-12 16:50:29,051:INFO:Record inserted(109811979209,'krish.joshi.129@gmail.com');
+2023-05-12 16:50:29,051:INFO:Record inserted(9811979209,'krish.joshi.130@gmail.com');
+2023-05-12 16:50:29,052:INFO:Record inserted(1049811979209,'krish.joshi.131@gmail.com');
+2023-05-12 16:50:29,052:INFO:Record inserted(1049811979209,'krish.joshi.133@gmail.com');
+2023-05-12 16:52:53,592:INFO:Record not inserted, Database Error!
+2023-05-12 16:52:53,593:INFO:Record not inserted, Database Error!
+2023-05-12 16:52:53,593:INFO:Record not inserted, Database Error!
+2023-05-12 16:52:53,593:INFO:Record not inserted, Database Error!
+2023-05-12 16:52:53,593:INFO:Record not inserted, Database Error!
+2023-05-12 16:52:53,593:INFO:Record not inserted, Database Error!
+2023-05-12 16:52:53,593:INFO:Record not inserted, Database Error!
+2023-05-12 16:52:53,594:INFO:Record not inserted, Database Error!
+2023-05-12 16:52:53,594:INFO:Record not inserted, Database Error!
+2023-05-12 16:52:53,594:INFO:Record not inserted, Database Error!
+2023-05-12 16:52:53,594:INFO:Record not inserted, Database Error!
+2023-05-12 16:52:53,594:INFO:Record not inserted, Database Error!
+2023-05-12 16:52:53,595:INFO:Record not inserted, Database Error!
+2023-05-12 16:52:53,595:INFO:Record not inserted, Unexpected Error
+2023-05-12 16:52:53,595:INFO:Record not inserted, Database Error!
+2023-05-12 16:52:53,595:INFO:Record not inserted, Database Error!
+2023-05-12 16:52:53,595:INFO:Record not inserted, Database Error!
+2023-05-12 16:52:53,595:INFO:Record not inserted, Database Error!
+2023-05-12 16:52:53,595:INFO:Record not inserted, Database Error!
+2023-05-12 16:54:12,390:INFO:Record not inserted, Database Error!
+2023-05-12 16:54:12,390:INFO:Record not inserted, Database Error!
+2023-05-12 16:54:12,391:INFO:Record not inserted, Database Error!
+2023-05-12 16:54:12,391:INFO:Record not inserted, Database Error!
+2023-05-12 16:54:12,391:INFO:Record not inserted, Database Error!
+2023-05-12 16:54:12,391:INFO:Record not inserted, Database Error!
+2023-05-12 16:54:12,391:INFO:Record not inserted, Database Error!
+2023-05-12 16:54:12,391:INFO:Record not inserted, Database Error!
+2023-05-12 16:54:12,392:INFO:Record not inserted, Database Error!
+2023-05-12 16:54:12,392:INFO:Record not inserted, Database Error!
+2023-05-12 16:54:12,392:INFO:Record not inserted, Database Error!
+2023-05-12 16:54:12,392:INFO:Record not inserted, Database Error!
+2023-05-12 16:54:12,392:INFO:Record not inserted, Database Error!
+2023-05-12 16:54:12,393:INFO:Record inserted(919811979209,'krish.joshi.127@gmail.com');
+2023-05-12 16:54:12,393:INFO:Record not inserted, Database Error!
+2023-05-12 16:54:12,394:INFO:Record not inserted, Database Error!
+2023-05-12 16:54:12,394:INFO:Record not inserted, Database Error!
+2023-05-12 16:54:12,394:INFO:Record not inserted, Database Error!
+2023-05-12 16:54:12,394:INFO:Record not inserted, Database Error!
+2023-05-12 16:54:12,394:INFO:Record not inserted, Unexpected Error
+2023-05-12 16:55:05,127:INFO:Record not inserted, Unexpected Error
+2023-05-12 16:55:05,127:INFO:Record not inserted, Unexpected Error
+2023-05-12 16:55:05,127:INFO:Record not inserted, Unexpected Error
+2023-05-12 16:55:05,127:INFO:Record not inserted, Unexpected Error
+2023-05-12 16:55:05,127:INFO:Record not inserted, Unexpected Error
+2023-05-12 16:55:05,127:INFO:Record not inserted, Unexpected Error
+2023-05-12 16:55:05,127:INFO:Record not inserted, Unexpected Error
+2023-05-12 16:55:05,127:INFO:Record not inserted, Unexpected Error
+2023-05-12 16:55:05,127:INFO:Record not inserted, Unexpected Error
+2023-05-12 16:55:05,128:INFO:Record not inserted, Unexpected Error
+2023-05-12 16:55:05,128:INFO:Record not inserted, Unexpected Error
+2023-05-12 16:55:05,128:INFO:Record not inserted, Unexpected Error
+2023-05-12 16:55:05,128:INFO:Record not inserted, Unexpected Error
+2023-05-12 16:55:05,128:INFO:Record not inserted, Unexpected Error
+2023-05-12 16:55:05,128:INFO:Record not inserted, Unexpected Error
+2023-05-12 16:55:05,128:INFO:Record not inserted, Unexpected Error
+2023-05-12 16:55:05,128:INFO:Record not inserted, Unexpected Error
+2023-05-12 16:55:05,128:INFO:Record not inserted, Unexpected Error
+2023-05-12 16:55:05,128:INFO:Record not inserted, Unexpected Error
+2023-05-12 16:55:05,128:INFO:Record not inserted, Unexpected Error
+2023-05-12 16:55:39,062:INFO:Record not inserted, Database Error!
+2023-05-12 16:55:39,062:INFO:Record not inserted, Database Error!
+2023-05-12 16:55:39,062:INFO:Record not inserted, Database Error!
+2023-05-12 16:55:39,062:INFO:Record not inserted, Database Error!
+2023-05-12 16:55:39,062:INFO:Record not inserted, Database Error!
+2023-05-12 16:55:39,062:INFO:Record not inserted, Database Error!
+2023-05-12 16:55:39,063:INFO:Record not inserted, Database Error!
+2023-05-12 16:55:39,063:INFO:Record not inserted, Database Error!
+2023-05-12 16:55:39,063:INFO:Record not inserted, Database Error!
+2023-05-12 16:55:39,063:INFO:Record not inserted, Database Error!
+2023-05-12 16:55:39,063:INFO:Record not inserted, Database Error!
+2023-05-12 16:55:39,063:INFO:Record not inserted, Database Error!
+2023-05-12 16:55:39,064:INFO:Record not inserted, Database Error!
+2023-05-12 16:55:39,064:INFO:Record not inserted, Database Error!
+2023-05-12 16:55:39,064:INFO:Record not inserted, Database Error!
+2023-05-12 16:55:39,064:INFO:Record not inserted, Database Error!
+2023-05-12 16:55:39,064:INFO:Record not inserted, Database Error!
+2023-05-12 16:55:39,064:INFO:Record not inserted, Database Error!
+2023-05-12 16:55:39,065:INFO:Record not inserted, Database Error!
+2023-05-12 16:56:56,735:INFO:Record not inserted, Database Error!
+2023-05-12 16:56:56,735:INFO:Record not inserted, Database Error!
+2023-05-12 16:56:56,736:INFO:Record not inserted, Database Error!
+2023-05-12 16:56:56,736:INFO:Record not inserted, Database Error!
+2023-05-12 16:56:56,737:INFO:Record not inserted, Database Error!
+2023-05-12 16:56:56,737:INFO:Record not inserted, Database Error!
+2023-05-12 16:56:56,737:INFO:Record not inserted, Database Error!
+2023-05-12 16:56:56,737:INFO:Record not inserted, Database Error!
+2023-05-12 16:56:56,738:INFO:Record not inserted, Database Error!
+2023-05-12 16:56:56,738:INFO:Record not inserted, Database Error!
+2023-05-12 16:56:56,738:INFO:Record not inserted, Database Error!
+2023-05-12 16:56:56,738:INFO:Record not inserted, Database Error!
+2023-05-12 16:56:56,738:INFO:Record not inserted, Database Error!
+2023-05-12 16:56:56,739:INFO:Record not inserted, Database Error!
+2023-05-12 16:56:56,739:INFO:Record not inserted, Database Error!
+2023-05-12 16:56:56,739:INFO:Record not inserted, Database Error!
+2023-05-12 16:56:56,739:INFO:Record not inserted, Database Error!
+2023-05-12 16:56:56,739:INFO:Record not inserted, Database Error!
+2023-05-12 16:56:56,740:INFO:Record not inserted, Database Error!
+2023-05-12 16:57:48,990:INFO:Record not inserted, Database Error!
+2023-05-12 16:57:48,990:INFO:Record not inserted, Database Error!
+2023-05-12 16:57:48,991:INFO:Record not inserted, Database Error!
+2023-05-12 16:57:48,991:INFO:Record not inserted, Database Error!
+2023-05-12 16:57:48,991:INFO:Record not inserted, Database Error!
+2023-05-12 16:57:48,992:INFO:Record not inserted, Database Error!
+2023-05-12 16:57:48,992:INFO:Record not inserted, Database Error!
+2023-05-12 16:57:48,992:INFO:Record not inserted, Database Error!
+2023-05-12 16:57:48,993:INFO:Record not inserted, Database Error!
+2023-05-12 16:57:48,993:INFO:Record not inserted, Database Error!
+2023-05-12 16:57:48,993:INFO:Record not inserted, Database Error!
+2023-05-12 16:57:48,993:INFO:Record not inserted, Database Error!
+2023-05-12 16:57:48,994:INFO:Record not inserted, Database Error!
+2023-05-12 16:57:48,994:INFO:Record not inserted, Database Error!
+2023-05-12 16:57:48,995:INFO:Record not inserted, Database Error!
+2023-05-12 16:57:48,995:INFO:Record not inserted, Database Error!
+2023-05-12 16:57:48,995:INFO:Record not inserted, Database Error!
+2023-05-12 16:57:48,995:INFO:Record not inserted, Database Error!
+2023-05-12 16:57:48,996:INFO:Record not inserted, Database Error!
+2023-05-12 16:59:11,473:INFO:Record not inserted, Database Error!
+2023-05-12 16:59:11,474:INFO:Record not inserted, Database Error!
+2023-05-12 16:59:11,474:INFO:Record not inserted, Database Error!
+2023-05-12 16:59:11,475:INFO:Record not inserted, Database Error!
+2023-05-12 16:59:11,475:INFO:Record not inserted, Database Error!
+2023-05-12 16:59:11,475:INFO:Record not inserted, Database Error!
+2023-05-12 16:59:11,475:INFO:Record not inserted, Database Error!
+2023-05-12 16:59:11,476:INFO:Record not inserted, Database Error!
+2023-05-12 16:59:11,476:INFO:Record not inserted, Database Error!
+2023-05-12 16:59:11,476:INFO:Record not inserted, Database Error!
+2023-05-12 16:59:11,476:INFO:Record not inserted, Database Error!
+2023-05-12 16:59:11,476:INFO:Record not inserted, Database Error!
+2023-05-12 16:59:11,477:INFO:Record not inserted, Database Error!
+2023-05-12 16:59:11,477:INFO:Record not inserted, Database Error!
+2023-05-12 16:59:11,477:INFO:Record not inserted, Database Error!
+2023-05-12 16:59:11,477:INFO:Record not inserted, Database Error!
+2023-05-12 16:59:11,478:INFO:Record not inserted, Database Error!
+2023-05-12 16:59:11,478:INFO:Record not inserted, Database Error!
+2023-05-12 16:59:11,478:INFO:Record not inserted, Database Error!
+2023-05-12 16:59:11,479:INFO:Record inserted(1049811979209,'krish.joshi.134@gmail.com');
